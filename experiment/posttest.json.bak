@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Laplace equation in 2D is represented by ",
+      "qid": 1,
+      "option_a": "<span style='display:inline-block'>$$\\frac{∂^2 \\phi}{∂x^2} + \\frac{∂^2 \\phi}{∂y^2} + \\frac{∂^2 \\phi}{∂z^2}  = 0$$</span>",
+      "option_b": "<span style='display:inline-block'>$$\\frac{∂^2 \\phi}{∂x^2} + \\frac{∂^2 \\phi}{∂y^2}  = 0$$</span>",
+      "option_c": "<span style='display:inline-block'>$$\\frac{∂^2 \\phi}{∂x^2}   = 0$$</span>",
+      "option_d": "<span style='display:inline-block'>$$\\frac{∂ \\phi}{∂x} + \\frac{∂ \\phi}{∂y}   = 0$$</span>",
+      "correct_option": "b"
+   },
+   {
+      "question": "Laplace equation in 2D is represented by ",
+      "qid": 2,
+      "option_a": "<span style='display:inline-block'>$$\\frac{∂^2 \\psi}{∂x^2} + \\frac{∂^2 \\psi}{∂y^2} + \\frac{∂^2 \\psi}{∂z^2}  = 0$$</span>",
+      "option_b": "<span style='display:inline-block'>$$\\frac{∂^2 \\psi}{∂x^2} + \\frac{∂^2 \\psi}{∂y^2}  = 0$$</span>",
+      "option_c": "<span style='display:inline-block'>$$\\frac{∂^2 \\psi}{∂x^2}   = 0$$</span>",
+      "option_d": "<span style='display:inline-block'>$$\\frac{∂ \\psi}{∂x} + \\frac{∂ \\psi}{∂y}   = 0$$</span>",
+      "correct_option": "b"
+   }
+]
